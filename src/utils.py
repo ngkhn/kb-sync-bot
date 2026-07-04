@@ -1,4 +1,8 @@
 import re
+import hashlib
+from pathlib import Path
+
+from .constants import HASH_DIR
 
 
 def slugify(title: str) -> str:

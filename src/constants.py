@@ -6,3 +6,5 @@ PER_PAGE = 30
 MARKDOWN_DIR = Path("data/markdown")
 
 HASH_DIR = Path("data/hashes")
+
+VECTOR_STORE_NAME = "knowledge-base"
