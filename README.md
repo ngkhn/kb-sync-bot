@@ -52,6 +52,7 @@ python main.py
 
 What happens when you run it:
 
+- It scrape articles which are knowledge base for the assistant bot
 - It creates or reuses the vector store named knowledge-base
 - It uploads all markdown files found in data/markdown
 
